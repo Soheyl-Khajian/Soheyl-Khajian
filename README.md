@@ -1,6 +1,7 @@
 # Hi, I'm Soheyl Khajian
 
 Full-Stack software engineer focused on TypeScript, AI tooling, and software architecture.
+www.linkedin.com/in/soheyl-khajian-91b567258
 
 ## Featured Projects
 - 🧠 AI Workspace — Local-first Chrome extension for AI workflows
